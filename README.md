@@ -10,5 +10,5 @@ Currently, I'm focused on more modern technology, including AI integration, clou
 
 Outside of being a dev, I enjoy lifting, biking, and playing basketball, ice hockey, and volleyball. I'm also an avid foodie - I love to travel to discover new cuisines and great food around the world. I frequently attend networking events in the Boston and greater Boston region. I'd love to chat! Feel free to shoot me an email at:
 ```
-mz \[at\] mzhang \[dot\] dev
+mz [at] mzhang [dot] dev
 ```
